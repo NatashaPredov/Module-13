@@ -84,3 +84,7 @@ To do so, complete the following steps:
 3. Save each of your models as an HDF5 file.
 
 # Learnings from this Mod
+
+First I leanred that sometimes VS code can be a bit buggy and not work with all imports. Therefor this Mod made me work outside of my usual medium and use as I used Google Colab to complete this assignment. 
+In addition to this, changing some instances of the models allowed me better understand the purpose of building the models and how changes and impact the outcome. 
+The supporting docs and learning for this mod were cleared and allowed me to dive deeper. 
